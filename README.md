@@ -1,4 +1,4 @@
-# Hey there! I'm Joshua Oyebode 👋🏾
+# Hey there! I'm Joshua 👋🏾
 
 ## 👨🏾‍💻 About Me
 
