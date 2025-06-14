@@ -1,36 +1,50 @@
-# Hey there! I'm Joshua 👋🏾
+# Hey there! I'm Joshua Oyebode 👋🏾
 
 ## 👨🏾‍💻 About Me
 
-- 🛡️ I’m a Security Analyst passionate about defending systems and data.
-- 💻 I’m also a Web Developer with strong skills in JavaScript, React, and building secure, user-focused applications.
-- 🔍 I’m interested in SOC operations, threat intelligence, vulnerability assessment, and secure software development.
-- 📚 Currently expanding my skills in cloud security, threat hunting, and preparing for the AWS Certified Solutions Architect exam.
-- 🚀 Open to opportunities in Cybersecurity, Tech Support, and Software Engineering.
-- 🎮 I enjoy gaming, reading tech blogs, and staying updated on cybersecurity trends.
-- 🎯 Fun fact: I’m goal-driven and recently passed my CompTIA Security+ certification!
+- 🛡️ Cybersecurity Engineer with a background in software and network support.
+- 💻 Former Web Developer with solid experience in JavaScript, REST APIs, and full-stack app security.
+- 🔍 Passionate about threat detection, vulnerability management, and cloud security (AWS & Azure).
+- 📈 I’ve enhanced compliance with GDPR, HIPAA, and PCI-DSS standards in past roles.
+- 🚀 Currently seeking opportunities in Cybersecurity, DevSecOps, or Cloud Security Engineering.
+- 🌱 I’m expanding my skills in backend development with Go and CI/CD pipelines.
+- 🎮 Outside of work, I enjoy gaming, exploring nature, listening to music, watching football, and traveling.
+- 😄 Fun fact: I’m somewhat of an audiophile and believe in continuous learning and living sustainably 🌍.
+
+---
 
 ## ⚙️ Tech Stack
 
-- 💻 **Languages**: JavaScript, Python, HTML, CSS, Bash
-- 🔐 **Cybersecurity Tools**: Wireshark, Splunk, Nessus, Security Onion, Zeek
-- ☁️ **Cloud/DevOps**: AWS (S3, EC2, IAM), GitHub Actions
-- 🖥️ **Web Dev**: React, Node.js, Express.js, MongoDB
-- 🧰 **Others**: VMware, Hyper-V, Git, VS Code, Figma
+- **Languages**: JavaScript, Python, SQL, Bash
+- **Cybersecurity Tools**: Burp Suite, Wireshark, Metasploit, Nmap, OWASP ZAP
+- **Cloud Platforms**: AWS (IAM, EC2, WAF, CloudTrail, CloudWatch), Azure Defender
+- **Monitoring & SIEM**: Splunk, IBM QRadar
+- **Web Tech**: HTML, CSS, Firebase, MySQL
+- **Frameworks/Standards**: GDPR, ISO 27001, NIST
+- **Other Tools**: Postman, Git, Linux CLI, The Dude, VMware, Hyper-V
 
-## 🛠️ Tools & Platforms
+---
 
-- 🔍 Wazuh, TheHive, MISP, Suricata
-- 🧪 Postman, Burp Suite, OWASP ZAP
-- 📈 The Dude, EPMS, DCIM, BMS
-- 💻 GitHub, Linux (Ubuntu/Kali), Windows
+## 🛠️ Projects
+
+- **🔒 Secured a WordPress Site on AWS**  
+  - Deployed and secured a WordPress instance using IAM, WAF, MFA, VPC, and logging tools.  
+  - Tools: AWS EC2, CloudWatch, CloudTrail, Nmap, OWASP ZAP  
+  - 📺 [Watch Demo](https://youtu.be/A-kLyfUdjTM)
+
+- **🏥 Developed a Secure Hospital Web App**  
+  - Created a secure childbirth tracking system with RBAC, encryption, and Firebase backend.  
+  - Stack: JavaScript, HTML, CSS, MySQL  
+  - 📺 [Watch Demo](https://youtu.be/wTZGTW0yJvs)
+
+- **📊 Mastercard Cybersecurity Simulation**  
+  - Completed a simulated internship analyzing security training gaps and proposing awareness strategies.  
+  - Focus: Human-centric security and policy evaluation.
+
+---
 
 ## 🤝 Connect with Me
 
-- 📧 Email: oyebodejoshua2@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/oyebodejoshua/)  
-- 📝 [Medium](https://medium.com/@yourprofile) *(share cybersecurity writeups or insights)*  
-- 🧑🏾‍💻 [Portfolio/Website](https://your-portfolio-link.com) *(optional if you have one)*  
-- ☕ [Buy Me a Coffee](https://buymeacoffee.com/yourname) *(if you'd like to add this)*  
+- 📧 Email: oyebodeb@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/cobargram/)  
 
----
